@@ -1,0 +1,7 @@
+13.2.2021, 15:02 - Person2: text
+13.2.2021, 15:03 - Person1: text
+13.2.2021, 15:03 - Person1: text
+13.2.2021, 15:03 - Person2: text
+13.2.2021, 15:07 - Person1: text
+13.2.2021, 15:07 - Person1: text
+13.2.2021, 15:08 - Person2: text
